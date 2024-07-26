@@ -1,8 +1,0 @@
-#!/bin/bash
-
-if [ $# -eq 2 ]; then
-    echo "First argument: $1"
-    echo "Second argument: $2"
-else
-    echo "Please provide exactly two arguments."
-fi

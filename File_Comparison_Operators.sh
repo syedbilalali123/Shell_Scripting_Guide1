@@ -1,7 +1,7 @@
 #!/bin/bash
 
 file=README.md
-directory=C:/Users/17203/WorkSpace
+directory=Shell_Directory
 
 
 if [ -e "$file" ]; then
